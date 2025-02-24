@@ -1,0 +1,4 @@
+gradio
+google-generativeai
+nltk
+python-dotenv
