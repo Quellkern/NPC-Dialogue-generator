@@ -17,8 +17,8 @@
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Meykaye/NPC-Dialogue.git
-   cd NPC-Dialogue
+   git clone https://github.com/Quellkern/NPC-Dialogue-generator.git
+   cd NPC-Dialogue-generator
    ```
 
 2. **Install Dependencies**:
